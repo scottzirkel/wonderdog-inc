@@ -22,6 +22,7 @@
             <h3 class="font-xl">The Colorer..er</h3>
           </a>
         </div>
+        <p><a href="https://arcanacomics.com/titles/wonderdog-inc/">Buy Now</a></p>
         <p class="text-xs text-center pb-4 leading-tight text-gray-600">
           Copyright © 2010 - {{ (new Date()).getFullYear() }} Scott Zirkel &amp; Arcana Comics. All Rights Reserved.
           Site built by Scott Zirkel
